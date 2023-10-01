@@ -18,7 +18,6 @@ const GameProgress = () => {
       <div className="game-description-title">This is example Memory Game</div>
       <div className="game-progress-text">
         <span>{currentLevel}/{levelCount} level</span>
-        <span className="float-right">Playing now</span>
       </div>
       <div className="game-progress-bar">
         <div className="game-progress-line" style={{ width: levelProgressWidth }}></div>

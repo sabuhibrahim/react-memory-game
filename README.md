@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Alt text](/screenshoot/example1.png?raw=true "Screen shoot from app")
+![Alt text](/screenshoot/example.png?raw=true "Screen shoot from app")
 
 
 If you get error after installation update packages then run.
