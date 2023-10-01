@@ -1,15 +1,16 @@
 # React Memory Game
 
+This is a simple Memory Game build on React. There are 5 levels from easy to hard. Also, it contains attempt logic.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Alt text](/screenshoot/example.png?raw=true "Screen shoot from app")
 
-
-If you get error after installation update packages then run.
-
-### `npm update --save`
-### `npm audit fix --force`
-
+If you get error after installation update packages run these.
+```bash
+npm update --save
+npm audit fix --force
+```
 
 ## Available Scripts
 
