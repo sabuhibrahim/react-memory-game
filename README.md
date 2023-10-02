@@ -1,6 +1,6 @@
 # React Memory Game
 
-This is a simple Memory Game built on React. There are 5 levels from easy to hard. Also, it contains attempt logic. If you finish all levels then you can reset to level 1. It stores the current level on Local Storage so you can clear Local Storage to reset the game.
+This is a sample Memory Game project built on React. There are 5 levels from easy to hard. Also, it contains attempt logic. If you finish all levels then you can reset to level 1. It stores the current level on Local Storage so you can clear Local Storage to reset the game.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
